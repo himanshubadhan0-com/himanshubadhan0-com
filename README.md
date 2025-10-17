@@ -1,4 +1,4 @@
-# Hi there 👋 I'm <Himanshu> / @<himanshubadhan0-com>
+# Hi there 👋 I'm Himanshu/ himanshubadhan0-com
 
 > A brief one-line tagline about you — e.g. "3rd year B.Tech CSE | Building full-stack apps | Open to internships"
 
